@@ -12,6 +12,7 @@ body{
 
 .text{
     color: #4ECCA3;
+    font-size: 2rem;
 }
 
 h1{
@@ -20,6 +21,7 @@ h1{
     font-weight: 400;
     font-style: normal;
     font-size: 8rem;
+    color: #4ECCA3;
 }
 
 .player1{
