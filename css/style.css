@@ -26,13 +26,16 @@ h1{
 
 .player1{
     display: inline-block;
+    margin-right: 20px;
 }
 
 .player2{
     display: inline-block;
+    margin-left: 20px;
 }
 
 footer{
     text-align: center;
     color: white;
+    margin-top: 40px;
 }
